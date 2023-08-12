@@ -1,2 +1,2 @@
 # photo-gallery
-Image gallery inspired by one of those MDN's assignments.
+Image gallery created from scratch inspired by the MDN's Image Gallery assignment.
